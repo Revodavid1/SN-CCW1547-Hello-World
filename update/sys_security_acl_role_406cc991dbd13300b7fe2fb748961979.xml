@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 20:51:53</sys_created_on>
+        <sys_id>406cc991dbd13300b7fe2fb748961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_282156_hello_wor_hello_world_table.x_282156_hello_wor.user</sys_name>
+        <sys_package display_value="Hello World" source="x_282156_hello_wor">7f5c8119db913300b7fe2fb74896193a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">7f5c8119db913300b7fe2fb74896193a</sys_scope>
+        <sys_security_acl display_value="x_282156_hello_wor_hello_world_table">c06cc991dbd13300b7fe2fb748961976</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_406cc991dbd13300b7fe2fb748961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 20:51:53</sys_updated_on>
+        <sys_user_role display_value="x_282156_hello_wor.user" name="x_282156_hello_wor.user">775c8991dbd13300b7fe2fb748961952</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
